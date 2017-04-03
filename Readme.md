@@ -3,8 +3,8 @@
 ##First is lists, you can make lists like this:
 1. One 
 2. Two 
-3. Three
-Or like this:
+3. Three 
+Or like this: 
 * One 
 * Two 
 Sometimes we may need this:
