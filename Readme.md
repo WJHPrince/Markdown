@@ -13,10 +13,9 @@ Or like this:
 Sometimes we may need this:
 
 *   One
-
         *   1
     *   2
 
-              <span class="hljs-built_in">echo</span> <span class="hljs-string">'hello linux'</span>
+            <span class="hljs-built_in">echo</span> <span class="hljs-string">'hello linux'</span>
 
 **Attention** please, i don't know what's going wrong that few statements cannot be recognized correctly, I will find out later.
