@@ -4,27 +4,18 @@
 
 ## First is lists, you can make lists like this:
 
-1. One
-2. Two
-3. Three
+1.  One2.  Two3.  Three
 
 Or like this: 
 
-* One
-* Two
+*   One*   Two
 
 Sometimes we may need this:
 
 *   One
-    *   1
+        *   1
     *   2
 
-```sh
-        echo "Hello Linux"
-```
+            <span class="hljs-built_in">echo</span> <span class="hljs-string">'hello linux'</span>
 
 **Attention** please, i don't know what's going wrong that few statements cannot be recognized correctly, I will find out later.
-
-## Writing someting interesting
-
-
