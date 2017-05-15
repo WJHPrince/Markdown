@@ -24,3 +24,6 @@ Sometimes we may need this:
 ```
 
 **Attention** please, i don't know what's going wrong that few statements cannot be recognized correctly, I will find out later.
+
+## Some advice:
+1.Never push from Windows! Never edit Markdown on Windows! 
